@@ -1,2 +1,5 @@
-# dwd-dev1001-lesson-code
-Lesson starter code / scaffolding master template for DEV1001
+# dwd-lesson-code
+Lesson starter code / scaffolding master template for DWD cohorts.
+
+To be used in conjunction with the UMC lesson plans repo.
+
