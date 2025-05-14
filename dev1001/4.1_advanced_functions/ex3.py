@@ -7,6 +7,6 @@
 
 points = [(1, 2), (3, 1), (5, -4), (0, 0)]
 
-sorted_points = # your code here
+sorted_points = sorted(points, key=lambda p: p[1]) # your code here
 
 print(sorted_points)

@@ -9,7 +9,8 @@
 # (e.g., to two decimal places, but the core is the map).
 
 prices = [10.99, 5.49, 20.00]
-
+total = list(map(lambda price: price * 1.20, prices))
+print(total)
 
 
 # Exercise 2
@@ -23,5 +24,6 @@ prices = [10.99, 5.49, 20.00]
 # F if <50
 
 scores = [85, 92, 78, 60, 42, 95, 70, 53]
-
+grades = map(lambda score: "HD" if score >= 90 else "D" if score >= 80 else "C" if score >= 70 else "P" if score >= 50 else "F", scores)
+print(list(grades))
 
