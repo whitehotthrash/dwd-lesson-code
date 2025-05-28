@@ -1,4 +1,6 @@
 Name,Subject,Grade
 Alice,Math,90
 Bob,Science,85
-Charlie,Math,95
+Charlie,Math,95Name,Subject,Score
+Asshole,History,88
+Eve,Art,92
